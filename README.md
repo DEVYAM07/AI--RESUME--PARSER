@@ -1,6 +1,13 @@
 # AI--RESUME--PARSER
 # Resume Intelligence Platform 🚀
 
+![PHOTO-2025-02-17-22-34-36](https://github.com/user-attachments/assets/83ebace2-9603-4ac3-987b-3cea9c909c7c)
+
+![PHOTO-2025-02-17-22-34-36](https://github.com/user-attachments/assets/7b589481-2528-45e3-95e6-eea6e43da7bc)
+
+
+
+
 An advanced AI-powered resume analysis and optimization platform built specifically for Gen Z professionals. This platform leverages cutting-edge technologies to transform how resumes are parsed, analyzed, and presented.
 
 ![Resume Intelligence Platform](https://your-screenshot-url.com)
@@ -114,4 +121,19 @@ We welcome contributions! Please follow these steps:
 - [spaCy](https://spacy.io/) for NLP capabilities
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful components
 - [Framer Motion](https://www.framer.com/motion/) for smooth animations
+
+## 🙏 Acknowledgments
+
+- [spaCy](https://spacy.io/) for NLP capabilities
+- [shadcn/ui](https://ui.shadcn.com/) for beautiful components
+- [Framer Motion](https://www.framer.com/motion/) for smooth animations
+
+
+
+
+
+
+
+
+
 
